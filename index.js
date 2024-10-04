@@ -27,7 +27,7 @@ app.get('/:short_url', (req,res) => {
         if (data && data.url){
             res.redirect(301,data.url);
         }else {
-            res.redirect(404,"https://github.com/JayantGoel001")
+            res.redirect(404,"https://github.com/infininte-horizon219")
         }
     })
 });

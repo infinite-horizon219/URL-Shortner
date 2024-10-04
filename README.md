@@ -2,4 +2,4 @@
 
 <br>
 
-![](https://github.com/JayantGoel001/URL-Shortner/blob/master/ss.png)
+![](https://github.com/infininte-horizon219/URL-Shortner/blob/master/ss.png)

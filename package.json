@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JayantGoel001/URL-Shortner.git"
+    "url": "git+https://github.com/infininte-horizon219/URL-Shortner.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JayantGoel001/URL-Shortner/issues"
+    "url": "https://github.com/infininte-horizon219/URL-Shortner/issues"
   },
-  "homepage": "https://github.com/JayantGoel001/URL-Shortner#readme",
+  "homepage": "https://github.com/infininte-horizon219/URL-Shortner#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
